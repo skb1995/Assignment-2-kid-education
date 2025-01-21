@@ -283,7 +283,73 @@ position: relative;
 top: -23px;
 left: 40px;
   }
-  
+  /* footer style */
+ .footer{
+    background: rgb(1, 172, 253);
+ }
+ .f-banner{
+    width: 85%;
+    margin: auto;
+    display: flex;
+    justify-content: space-between;
+    padding-top: 100px;
+    padding-bottom: 130px;
+ }
+ .f-banner-name h1{
+    color: rgb(255, 255, 255);
+font-family: Quicksand;
+font-size: 36px;
+font-weight: 700;
+padding-left: 20px;
+
+ }
+ .footer-sub{
+    color: rgb(255, 255, 255);
+font-family: Quicksand;
+font-size: 16px;
+font-weight: 400;
+
+ }
+
+ .f-banner-name{
+    display: flex;
+    justify-content:flex-start;
+    align-items: center;
+ }
+ .f-banner-name img{
+    width: 80px;
+    height: 80px;
+ }
+ .navbar2{
+    padding: 10px;
+ }
+ .navbar2 ul a{
+    text-decoration: none;
+    color: rgb(255, 255, 255);
+
+font-size: 16px;
+font-weight: 500;
+
+ }
+ .navbar2 ul li{
+    list-style: none;
+ }
+.navbar2-title{
+    color: rgb(255, 255, 255);
+font-size: 24px;
+font-weight: 700;
+}
+.media-contain p{
+    color: rgb(255, 255, 255);
+font-family: Quicksand;
+font-size: 26px;
+font-weight: 700;
+
+}
+.media{
+    display: flex;
+    gap: 10px;
+}
 
 
 
@@ -331,8 +397,14 @@ left: 40px;
     .card{
         flex-direction: column;
     }
+    .s-card-btn{
+        top: -20px;
+    }
     .Curriculum-title{
         font-size: 19px;
+    }
+    .arrow{
+        display: none;
     }
     .contain-title{
         font-size: 16px;
@@ -363,6 +435,13 @@ left: 40px;
     .story h1{
         font-size: 26px;
 
+    }
+    .f-banner{
+        flex-direction: column;
+    }
+    .navbar2{
+        position: relative;
+        right: 50px;
     }
     
     
