@@ -31,6 +31,10 @@
     grid-template-columns: repeat(3,1fr);
 
 }
+ marquee{
+    color: orangered;
+    font-weight: 600;
+ }
 .school{
     color: rgb(17, 17, 17);
     font-size: 2rem;
@@ -242,7 +246,7 @@ margin: 40px;
 
   }
   .l-card img{
-    width: 520px;
+    width: 540px;
     border-radius: 16px 16px 0 0;
   }
   .scard-title{
@@ -356,7 +360,9 @@ font-weight: 700;
 
 
 @media screen and (max-width:390px) {
-    .navbar{
+    .nav-border{
+        padding-bottom: 5px;
+        border-bottom: .5px solid rgb(254, 163, 1);
     }
     .school h3{
         display: none;
