@@ -183,12 +183,8 @@
   }
   .contain-des{
     color: rgb(128, 128, 128);
-font-family: Raleway;
-font-size: 15.09px;
-font-weight: 500;
-line-height: 28.3px;
-letter-spacing: 0%;
-text-align: center;
+    font-size: 15.09px;
+    font-weight: 500;
   }
   /* sotry style */
   .linear{
@@ -216,9 +212,7 @@ text-align: center;
     display: flex;
     flex-direction: column;
     border-radius: 16px;
-
-
-background: rgb(255, 255, 255);
+    background: rgb(255, 255, 255);
   }
   .s-card{
     display: grid;
@@ -227,22 +221,21 @@ background: rgb(255, 255, 255);
   }
   .s-card-b{
     border-radius: 16px;
-
-background: rgb(255, 255, 255);
+    background: rgb(255, 255, 255);
   }
   .card-title{
     color: rgb(0, 0, 0);
-font-size: 20px;
-font-weight: 700;
-margin: 40px;
+    font-size: 20px;
+    font-weight: 700;
+    margin: 40px;
 
 
   }
   .card-sub{
     color: rgb(102, 102, 102);
-font-size: 15.34px;
-font-weight: 500;
-margin: 40px;
+    font-size: 15.34px;
+    font-weight: 500;
+    margin: 40px;
 
   }
   .l-card img{
@@ -251,9 +244,9 @@ margin: 40px;
   }
   .scard-title{
     color: rgb(0, 0, 0);
-font-size: 17px;
-font-weight: 700;
-margin: 20px;
+    font-size: 17px;
+    font-weight: 700;
+    margin: 20px;
   }
   .s-card img{
     width: 291px;
@@ -261,31 +254,31 @@ margin: 20px;
   }
   .l-card button{
     color: rgb(255, 255, 255);
-font-size: 15.34px;
-font-weight: 500;
-text-transform: capitalize;
-padding: 10px;
-border-radius: 47.93px;
-border: none;
-background: rgb(60, 216, 232);
-width: 174px;
-position: relative;
-top: -20px;
-left: 40px;
+    font-size: 15.34px;
+    font-weight: 500;
+    text-transform: capitalize;
+    padding: 10px;
+    border-radius: 47.93px;
+    border: none;
+    background: rgb(60, 216, 232);
+    width: 174px;
+    position: relative;
+    top: -20px;
+    left: 40px;
   }
   .s-card-btn{
     color: rgb(255, 255, 255);
-font-family: Raleway;
-font-size: 15.34px;
-font-weight: 500;
-text-transform: capitalize;
-padding: 10px;
-border-radius: 47.93px;
-border: none;
-width: 174px;
-position: relative;
-top: -23px;
-left: 40px;
+    font-family: Raleway;
+    font-size: 15.34px;
+    font-weight: 500;
+    text-transform: capitalize;
+    padding: 10px;
+    border-radius: 47.93px;
+    border: none;
+    width: 174px;
+    position: relative;
+    top: -23px;
+    left: 40px;
   }
   /* footer style */
  .footer{
@@ -301,17 +294,17 @@ left: 40px;
  }
  .f-banner-name h1{
     color: rgb(255, 255, 255);
-font-family: Quicksand;
-font-size: 36px;
-font-weight: 700;
-padding-left: 20px;
+    font-family: Quicksand;
+    font-size: 36px;
+    font-weight: 700;
+    padding-left: 20px;
 
  }
  .footer-sub{
     color: rgb(255, 255, 255);
-font-family: Quicksand;
-font-size: 16px;
-font-weight: 400;
+    font-family: Quicksand;
+    font-size: 16px;
+    font-weight: 400;
 
  }
 
@@ -330,9 +323,8 @@ font-weight: 400;
  .navbar2 ul a{
     text-decoration: none;
     color: rgb(255, 255, 255);
-
-font-size: 16px;
-font-weight: 500;
+    font-size: 16px;
+    font-weight: 500;
 
  }
  .navbar2 ul li{
@@ -340,14 +332,14 @@ font-weight: 500;
  }
 .navbar2-title{
     color: rgb(255, 255, 255);
-font-size: 24px;
-font-weight: 700;
+    font-size: 24px;
+    font-weight: 700;
 }
 .media-contain p{
     color: rgb(255, 255, 255);
-font-family: Quicksand;
-font-size: 26px;
-font-weight: 700;
+    font-family: Quicksand;
+    font-size: 26px;
+    font-weight: 700;
 
 }
 .media{
